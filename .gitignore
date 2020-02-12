@@ -5,7 +5,7 @@
 
 IntelliJ Items
 .idea/
-mco152a.iml
+*.iml
 
 # build artifacts
 .gradle/
