@@ -25,7 +25,7 @@ import static edu.touro.mco152.bm.DiskMark.MarkType.WRITE;
  * information, which is also recorded as needed to persistence store, and log.
  * <p>
  * Depends on static values that describe the benchmark to be done having been set in App and Gui classes.
- * The DiskRun class is used to keep track of and persist info about each benchmark at a higher level (a run),
+ * The DiskRun class is used to keep track of and edu.touro.mco152.bm.persist info about each benchmark at a higher level (a run),
  * while the DiskMark class described each iteration's result, which is displayed by the UI as the benchmark run
  * progresses.
  * <p>
